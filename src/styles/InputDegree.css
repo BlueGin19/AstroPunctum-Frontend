@@ -1,0 +1,14 @@
+.InputDegree {
+    display: flex;
+    gap: 10px;
+}
+
+.InputDegree p.number {
+    text-align: right;
+    width: 50px
+}
+
+.InputDegree p.text {
+    font-weight: 600;
+    color: gray;
+}

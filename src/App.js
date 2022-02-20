@@ -1,7 +1,9 @@
+import { ManualControl } from "./components/ManualControl";
+
 function App() {
   return (
     <div>
-      Hello!
+      <ManualControl />
     </div>
   );
 }
